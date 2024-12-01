@@ -25,3 +25,11 @@ var myVar = "Hello, world!";
 ```
 
 Added code examples!
+
+- [x] Turn on GitHub
+- [x] Start GitHub tutorials
+- [x] Buy school books and uniform
+- [x] Money no enough
+- [ ] Intro myself to the world
+
+Added task list!
